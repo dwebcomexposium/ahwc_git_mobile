@@ -226,10 +226,10 @@ img.at-illust {
 
 /* ========== Header ========== */
 
-.main-site-logo {
+/*.main-site-logo {
   display: inline-block;
   vertical-align: middle;
-}
+}*/
 .main-site-logo .title {
   display: none;
 }
